@@ -1,1 +1,2 @@
-configtest-prod.yml
+namoosori:
+value: prod-test-value
